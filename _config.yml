@@ -12,6 +12,8 @@ color:
     - '#1D181F'
 github: true
 layout_spectrum: 0.5723398582344081
+analytics:
+  google: UA-86820651-1
 author:
   name: 'Natalie Dixon '
   email: nataliedixonlive@gmail.com
