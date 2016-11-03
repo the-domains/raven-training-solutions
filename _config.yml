@@ -1,0 +1,53 @@
+typography_spectrum: 0.8768070536345649
+color:
+  brandStrength: 0.8674235630051076
+  lightness: 0.6022752681230702
+  saturation: 0.40708123940356666
+  rhythmicContrast: 0.06681689764732623
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+github: true
+layout_spectrum: 0.5723398582344081
+author:
+  name: 'Natalie Dixon '
+  email: nataliedixonlive@gmail.com
+logo: null
+name: Raven Training Solutions
+navigation:
+  - name: Training Solutions
+    id: ccb7e81a-b507-48f0-b611-88bcfec0262f
+    type: content
+  - name: Services
+    id: 6b27b78d-6860-47e0-8743-774490d2e6bd
+    type: content
+  - name: Courses
+    id: 784f63c1-80d6-4ed8-a179-622f02f1cb87
+    type: content
+  - name: Blog / Case Studies
+    id: 9ad9555e-3aaf-42a0-be8f-e53ccb8e5586
+    type: content
+  - name: Request A Call Back
+    id: ea47221b-c0c7-41c3-8e38-8c7f5f9a7710
+    type: content
+  - name: Testimonials
+    id: 41dfa7f8-883f-421f-938d-9cfe355c7218
+    type: content
+  - name: About Us
+    id: 8fe162e4-c419-419c-9b05-601e8f0d65cb
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee6455ee-e6fb-4bf2-99ac-46240a8a96a6.png
+title: Raven Training Solutions
+content: []
+description: The Construction Training  Specialists
+purpose:
+  - type: contact
+    url: 'tel:07810715473'
+    label: Call
+  - type: contact
+    url: 'mailto:linda@raventrainingsolutions.com'
+    label: Email
