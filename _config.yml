@@ -17,7 +17,8 @@ analytics:
 author:
   name: 'Natalie Dixon '
   email: nataliedixonlive@gmail.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c6d388-7289-4cb5-bbad-50aee8746e48.png
 name: Raven Training Solutions
 navigation:
   - name: Training Solutions
