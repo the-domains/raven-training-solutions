@@ -31,14 +31,14 @@ navigation:
   - name: Courses
     id: 784f63c1-80d6-4ed8-a179-622f02f1cb87
     type: content
-  - name: Blog / Case Studies
-    id: 9ad9555e-3aaf-42a0-be8f-e53ccb8e5586
-    type: content
   - name: Request A Call Back
     id: ea47221b-c0c7-41c3-8e38-8c7f5f9a7710
     type: content
   - name: Testimonials
     id: 41dfa7f8-883f-421f-938d-9cfe355c7218
+    type: content
+  - name: Blog / Case Studies
+    id: 9ad9555e-3aaf-42a0-be8f-e53ccb8e5586
     type: content
   - name: About Us
     id: 8fe162e4-c419-419c-9b05-601e8f0d65cb
