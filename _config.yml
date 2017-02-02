@@ -54,3 +54,5 @@ purpose:
   - type: contact
     url: 'mailto:admin@raventrainingsolutions.co.uk'
     label: Email
+content_rating:
+  adult: false
