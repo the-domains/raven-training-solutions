@@ -20,7 +20,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c6d388-7289-4cb5-bbad-50aee8746e48.png
 name: Raven Training Solutions
-url: 'http://www.raventrainingsolutions.co.uk'
+url: 'http://raventrainingsolutions.co.uk/'
 navigation:
   - name: Training Solutions
     id: ccb7e81a-b507-48f0-b611-88bcfec0262f
@@ -43,7 +43,8 @@ navigation:
   - name: About Us
     id: 8fe162e4-c419-419c-9b05-601e8f0d65cb
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eebed97-b497-4fb6-851c-28aa3b069a43.png
 title: Construction Training | Management | CITB Grant Recovery
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
