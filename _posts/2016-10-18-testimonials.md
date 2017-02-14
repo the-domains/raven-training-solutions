@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-14T12:29:31.093Z'
+datePublished: '2017-02-14T21:38:44.855Z'
 sourcePath: _posts/2016-10-18-testimonials.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-14T12:29:30.088Z'
+dateModified: '2017-02-14T21:38:44.278Z'
 title: 'Review: Construction Training Management - CITB Training Levy Granted'
 publisher: {}
 description: 'Contact Us:'
@@ -32,6 +32,10 @@ E: admin@raventrainingsolutions.co.uk
 
 T: 07810715473
 
-Book Consultation Here
+Book Consultation [Here][0]
 
 ---
+
+
+
+[0]: https://goo.gl/forms/pFtvJkQrsitBEpqr1
