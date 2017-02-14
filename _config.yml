@@ -45,7 +45,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eebed97-b497-4fb6-851c-28aa3b069a43.png
-title: Construction Training | Management | CITB Grant Recovery
+title: Construction Training | Management | CITB Training Grant Recovery
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
